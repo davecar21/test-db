@@ -14,6 +14,11 @@
       "id": 736,
       "product": "laptop",
       "price" : "$900"
+    },
+    {
+      "id": 956,
+      "product": "phone",
+      "price" : "$1200"
     }
   ]
 }
