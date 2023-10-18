@@ -3,17 +3,17 @@
     {
       "id": 311,
       "product": "keyboard",
-      "price" : "$100"
+      "price" : "$700"
     },
     {
       "id": 652,
       "product": "mouse",
-      "price" : "$200"
+      "price" : "$800"
     },
     {
       "id": 736,
       "product": "laptop",
-      "price" : "$300"
+      "price" : "$900"
     }
   ]
 }
